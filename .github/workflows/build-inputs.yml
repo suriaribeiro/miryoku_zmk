@@ -9,7 +9,7 @@ on:
         description: 'board'
         required: true 
         default: 'nice_nano_v2'
-        shield:
+      shield:
         description: 'shield'
         required: false
         default: 'rae_dux_left, rae_dux_right'
